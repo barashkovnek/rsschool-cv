@@ -1,0 +1,12 @@
+.content{
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+li{
+    list-style-position: inside;
+}
